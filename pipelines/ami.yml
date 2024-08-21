@@ -4,7 +4,7 @@ pipelines:
     group: terraform
     materials:
       git-801da91:
-        git: https://github.com/donthi123/expense-terraform.git
+        git: https://github.com/donthi123/master-ami.git
         shallow_clone: false
         auto_update: true
         branch: main
